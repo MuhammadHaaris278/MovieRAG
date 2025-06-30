@@ -1,0 +1,20 @@
+# Python virtual environments
+venv/
+backend/venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Node modules
+node_modules/
+frontend/frontend/.next/
+frontend/frontend/.turbo/
+frontend/frontend/out/
+
+# VS Code
+.vscode/
+
+# Env and logs
+.env
+*.log
